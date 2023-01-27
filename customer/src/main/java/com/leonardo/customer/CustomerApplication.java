@@ -1,13 +1,13 @@
-package com.leonardo.customers;
+package com.leonardo.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CustomersApplication {
+public class CustomerApplication {
     
     public static void main(String [] args) {
-        SpringApplication.run(CustomersApplication.class, args);
+        SpringApplication.run(CustomerApplication.class, args);
     }
 
 }
