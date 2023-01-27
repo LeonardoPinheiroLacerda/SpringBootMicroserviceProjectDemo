@@ -69,4 +69,8 @@
 		</pluginManagement>
 	</build>
 
+    <modules>
+        <module>customers</module>
+    </modules>
+
 </project>
