@@ -86,6 +86,7 @@
 	</build>
 
     <modules>
+        <module>eureka-server</module>
         <module>customer</module>
         <module>fraud</module>
         <module>shared</module>
